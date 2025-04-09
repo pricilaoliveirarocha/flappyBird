@@ -1,4 +1,4 @@
-# 🐦 Flappy Bird Clone | JavaScript Game 
+# 🐦 Flappy Bird Clone | Simple JavaScript Game 
 
 *A pixel-perfect remake of the classic Flappy Bird game built with pure JavaScript*  
 
